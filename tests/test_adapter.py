@@ -5,7 +5,6 @@ from casbin_databases_adapter.adapter import Filter
 
 
 async def test_load_policy(db: Database, enforcer: Enforcer):
-
     assert enforcer.enforce("alice", "data1", "read") == True
     assert enforcer.enforce("bob", "data2", "write") == True
     assert enforcer.enforce("alice", "data2", "read") == True
@@ -44,7 +43,6 @@ async def test_remove_policy(db: Database, enforcer: Enforcer):
 
 
 async def test_remove_filtered_policy(db: Database, enforcer: Enforcer):
-
     assert enforcer.enforce("alice", "data1", "read")
     await enforcer.remove_filtered_policy(1, "data1")
     assert not (enforcer.enforce("alice", "data1", "read"))

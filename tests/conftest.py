@@ -24,7 +24,7 @@ async def casbin_rule_table(db: Database):
     table = Table(
         "casbin_rules",
         metadata,
-        Column("id",Integer, primary_key=True),
+        Column("id", Integer, primary_key=True),
         Column("ptype", String(255)),
         Column("v0", String(255)),
         Column("v1", String(255)),
