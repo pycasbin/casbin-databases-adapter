@@ -24,7 +24,7 @@ setup(
     keywords=[
         "casbin",
         "asynccasbin",
-        "async,"
+        "async",
         "databases",
         "casbin-adapter",
         "rbac",
