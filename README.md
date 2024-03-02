@@ -1,5 +1,4 @@
 # Databases Casbin Adapter
-====
 
 [![GitHub Actions](https://github.com/pycasbin/casbin-databases-adapter/workflows/build/badge.svg?branch=master)](https://github.com/pycasbin/casbin-databases-adapter/actions)
 [![Coverage Status](https://coveralls.io/repos/github/pycasbin/casbin-databases-adapter/badge.svg?branch=master)](https://coveralls.io/github/pycasbin/casbin-databases-adapter?branch=master)
