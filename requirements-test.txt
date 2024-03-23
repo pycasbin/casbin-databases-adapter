@@ -1,6 +1,6 @@
-asynccasbin>=1.1.7
-databases>=0.7.0
-SQLAlchemy>=1.2.18
+asynccasbin==1.1.7
+databases==0.7.0
+SQLAlchemy==1.4.42
 pytest>=7.3.0
 alt-pytest-asyncio>=0.7.0
 aiosqlite>=0.19.0
