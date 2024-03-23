@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [1.1.0](https://github.com/pycasbin/casbin-databases-adapter/compare/v1.0.0...v1.1.0) (2024-03-23)
+
+
+### Features
+
+* update Python version to 3.9+, update CI Node.js version to 20 ([67711bc](https://github.com/pycasbin/casbin-databases-adapter/commit/67711bcab794ef5343db45716be401d5dc8a3f45))
+* upgrade synccasbin, databases and SQLAlchemy versions to fix CI error ([#4](https://github.com/pycasbin/casbin-databases-adapter/issues/4)) ([3892591](https://github.com/pycasbin/casbin-databases-adapter/commit/3892591d0ecd565ba32cd383202a0a843928f652))
+
 # 1.0.0 (2023-06-10)
 
 
