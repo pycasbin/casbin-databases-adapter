@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/pycasbin/casbin-databases-adapter/compare/v1.1.0...v1.2.0) (2024-04-24)
+
+
+### Features
+
+* add usage instructions, example code to README ([#6](https://github.com/pycasbin/casbin-databases-adapter/issues/6)) ([7dbb872](https://github.com/pycasbin/casbin-databases-adapter/commit/7dbb872791118b86927d10ff4cf81d58aec276c8))
+
 # [1.1.0](https://github.com/pycasbin/casbin-databases-adapter/compare/v1.0.0...v1.1.0) (2024-03-23)
 
 
